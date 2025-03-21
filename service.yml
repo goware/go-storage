@@ -1,4 +1,0 @@
-security:
-  data_management:
-    contains_pii: false
-bugs_url: https://github.com/Shopify/go-storage/issues

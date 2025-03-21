@@ -2,16 +2,12 @@
 
 storage is a Go package which abstracts file systems (local, in-memory, Google Cloud Storage) into a few interfaces.  It includes convenience wrappers for simplifying common file system use cases such as caching, prefix isolation and more!
 
-Forked from https://github.com/sajari/storage
-
-# Requirements
-
-- [Go 1.10+](http://golang.org/dl/)
+Forked from https://github.com/Shopify/go-storage
 
 # Installation
 
 ```console
-$ go get github.com/Shopify/go-storage
+$ go get github.com/goware/go-storage
 ```
 
 # Usage
