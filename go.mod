@@ -1,6 +1,6 @@
-module github.com/Shopify/go-storage
+module github.com/goware/go-storage
 
-go 1.21
+go 1.23
 
 require (
 	cloud.google.com/go/storage v1.43.0

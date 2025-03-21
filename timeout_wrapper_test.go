@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Shopify/go-storage"
+	"github.com/goware/go-storage"
 )
 
 func TestNewTimeoutWrapper(t *testing.T) {

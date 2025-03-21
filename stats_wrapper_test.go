@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Shopify/go-storage"
-	"github.com/Shopify/go-storage/internal/testutils"
+	"github.com/goware/go-storage"
+	"github.com/goware/go-storage/internal/testutils"
 )
 
 func TestNewStatsWrapper(t *testing.T) {
